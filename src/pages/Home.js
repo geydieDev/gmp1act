@@ -10,14 +10,14 @@ const Home = () => {
       <Container className='d-flex justify-content-center align-items-center' >
         <Row className='hero gap-5'>
           <Col className='d-flex justify-content-center align-items-center'>
-            <Image src='https://yt3.ggpht.com/-66BBJNPmLJs/AAAAAAAAAAI/AAAAAAAAAAA/NXBgk0ne-k0/s900-c-k-no/photo.jpg' className='w-100 h-100 bg-black'style={{minWidth:250,minHeight:250}} rounded fluid/>
+            <Image src='image1.png' className='w-100 h-100 bg-black'style={{minWidth:250,minHeight:250}} rounded fluid/>
           </Col>
           <Col>
-            <h1 className='display-1 fw-bold'>Johnny Sins</h1>
+            <h1 className='display-1 fw-bold'>Gheydie Maramba</h1>
             <h3 className='display-6 fw-semibold'>Aspiring Web Developer</h3>
             <hr />
             <p>
-              A 20 year's old BSIT Student in PHINMA University of Pangasinan who loves coffee and programming.
+              A 20 year's old BSIT Student in PHINMA University of Pangasinan who loves music,coffee and programming.
             </p>
             <div className='d-flex align-items-center gap-2'>
               <Link to='/work'>

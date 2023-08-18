@@ -7,7 +7,7 @@ const NavbarComponent = ()=> {
   return(
     <Navbar expand="lg" className='px-5 py-4'>
       <Container>
-        <Navbar.Brand href="#home" className='fw-semibold'>Johnny Sins</Navbar.Brand>
+        <Navbar.Brand href="#home" className='fw-semibold'>Gheydie Maramba</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
       </Container>
       <Navbar.Collapse id="basic-navbar-nav">

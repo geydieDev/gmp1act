@@ -14,19 +14,19 @@ const Education = () => {
         <Accordion.Item eventKey="0">
           <Accordion.Header>School 1 | Year 2015</Accordion.Header>
           <Accordion.Body>
-            School description
+           Bolosan Elementary School | S.Y 2008-2015
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>School 2 | Year 2019</Accordion.Header>
+          <Accordion.Header>School 2 | S.Y Year 2019</Accordion.Header>
           <Accordion.Body>
-            School description
+            JJDVSTVSS | 2015-2019
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="2">
           <Accordion.Header>School 3 | Current</Accordion.Header>
           <Accordion.Body>
-            School description
+            UNIVERSITY OF PANGASINAN  
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>
